@@ -50,6 +50,7 @@ gtts
 search_engine_parser
 googletrans
 gpytranslate
+requests==2.28.2
 cloudscraper
 carbonnow
 pretty_errors
